@@ -1,6 +1,5 @@
-This script will automate decompiling and recompiling 
-on CLI via apktool
-
+This script will help the user to generate undetectable 
+payload for android platform.
 
 
 Usage:
